@@ -3,7 +3,6 @@
 
 # function to find the product of max product subarray.
 def max_product(arr):
-    
     n = len(arr)
 
     # max product ending at the current index
