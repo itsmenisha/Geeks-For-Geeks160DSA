@@ -1,6 +1,6 @@
 # Python program to find Maximum Product Subarray using Minimum
 # Maximum Product ending at every index
-
+ 
 # function to find the product of max product subarray.
 def max_product(arr):
     n = len(arr)
